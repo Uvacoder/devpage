@@ -20,7 +20,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Alexander May - Frontend Developer</title>
+        <title>Bill Lumberg - Frontend Developer</title>
         <meta
           name="description"
           content="Experienced Frontend Developer with a focus on high software quality"
