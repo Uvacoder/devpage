@@ -103,7 +103,7 @@ export default function Hero() {
             <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white sm:text-5xl md:text-6xl">
               <span className="block xl:inline">{t("hi")}</span>{" "}
               <span className="block text-indigo-600 dark:text-indigo-500 xl:inline">
-                Alexander May
+                Dr Richard Kimble
               </span>
             </h1>
             <p className="mt-3 max-w-md mx-auto text-base text-gray-500 dark:text-gray-300 sm:text-lg md:mt-8 md:text-xl md:max-w-3xl">
